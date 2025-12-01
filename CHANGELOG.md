@@ -3,13 +3,17 @@
 ## [Unreleased]
 
 ### Added
-- Add Statistic on the number of number of annotations
-- Add ligthen function to "highlight" annotations
 ### Changed
 ### Deprecated
 ### Removed
 ### Fixed
 ### Security
+
+## v0.2.0 - 01/12/2025
+
+### Added
+- Add Statistic on the number of number of annotations
+- Add ligthen function to "highlight" annotations
 
 ## v0.1.0 - 04/06/2024
 

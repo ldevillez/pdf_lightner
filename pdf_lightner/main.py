@@ -6,7 +6,7 @@ import click
 import pymupdf # imports the pymupdf library
 
 
-__version__ = "0.7.0"
+__version__ = "0.2.0"
 __author__ = "Devillez Louis"
 __maintainer__ = "Devillez Louis"
 __email__ = "louis.devillez@gmail.com"
