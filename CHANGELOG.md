@@ -3,6 +3,8 @@
 ## [Unreleased]
 
 ### Added
+- Add Statistic on the number of number of annotations
+- Add ligthen function to "highlight" annotations
 ### Changed
 ### Deprecated
 ### Removed
